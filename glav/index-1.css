@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+.hap{
+  width: 100%;
+  height: 100px;
+  background: greenyellow;
+}
+.glav{
+  font-weight: bold;
+  border-radius: 25px; 
+  width: 100px;
+  height: 25px;
+  font-size:100%;
+  position:absolute;
+  right:37%;
+}
