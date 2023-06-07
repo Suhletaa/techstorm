@@ -6,12 +6,127 @@ body{
   height: 100px;
   background: greenyellow;
 }
-.glav{
-  font-weight: bold;
-  border-radius: 25px; 
+.button{
+    width: 100px;
+    height: 30px;
+    border: none;
+    font-size: 1.2em;
+    position: relative;
+   background-color: greenyellow;
+   border-radius: 10px;
+   left:500px;
+   top:48px;
+}
+.button:active {
+    background-color: #838383;
+}
+.button2{
+    width: 120px;
+    height: 30px;
+    border: none;
+    font-size: 1.2em;
+    position: relative;
+   background-color: greenyellow;
+   border-radius: 15px;
+   left:77%;
+}
+.button2:active {
+    background-color: #838383;
+}
+
+.button3{
+    width: 80px;
+    height: 30px;
+    border: none;
+    font-size: 1.2em;
+    position: relative;
+   background-color: greenyellow;
+   border-radius: 10px;
+   left:80%;
+}
+.button3:active {
+    background-color: #838383;
+}
+.button4{
   width: 100px;
-  height: 25px;
-  font-size:100%;
-  position:absolute;
-  right:37%;
+  height: 30px;
+  border: none;
+  font-size: 1.2em;
+  position: relative;
+ background-color: greenyellow;
+ border-radius: 10px;
+ left:300px;
+ top:48px;
+}
+.button4:active {
+  background-color: #838383;
+}
+.button5{
+  width: 120px;
+  height: 30px;
+  border: none;
+  font-size: 1.2em;
+  position: relative;
+ background-color: greenyellow;
+ border-radius: 10px;
+ left:310px;
+ top:48px;
+}
+.button5:active {
+  background-color: #838383;
+}
+.input{
+  width: 500px;
+  height:25px;
+  position: absolute;
+  left:500px;
+top:20px;
+}
+.input1{
+  width: 50px;
+  height:25px ;
+left:1000px;
+position: absolute;
+top:20px;
+}
+.button6{
+  width: 120px;
+  height: 30px;
+  border: none;
+  font-size: 1.2em;
+  position: relative;
+ background-color: greenyellow;
+ border-radius: 10px;
+ left:325px;
+ top:48px;
+}
+.button6:active {
+  background-color: #838383;
+}
+.job{
+  width: 100%;
+  bottom: 10px;
+}
+.job1{
+  width: 350px;
+  height: 500px;
+  background: greenyellow;
+}
+.but{
+  top:650px;
+  position: absolute;
+  left:100px;
+}
+.job2{
+  width: 350px;
+  height: 500px;
+  background: greenyellow;
+  left:375px;
+  position: absolute;
+  top:180px;
+}
+.but1{
+  top:470px;
+  position: absolute;
+  left:120px;
 }
